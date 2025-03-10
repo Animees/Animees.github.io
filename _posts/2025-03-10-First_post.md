@@ -10,7 +10,7 @@ image:
   path: /assets/img/pfp_2-1.jpg
   alt: Stunning profile picture also used for LinkedIn and GitHub as of posting this... post
 ---
-![Me!](/assets/img/gato.png){: w="160" h="160" .right .shadow} 
+![A cute cat!](/assets/img/gato.png){: w="160" h="160" .right .shadow} 
 
 On all my socials is this picture, just because it is so stunning! 
 
